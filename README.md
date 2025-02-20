@@ -83,10 +83,6 @@ A classe `BackEnd` contém os seguintes métodos principais:
 - **SQLite**: Banco de dados relacional utilizado para armazenar as informações de cadastro.
 - **HTML**: Estrutura das páginas de login e cadastro.
 
-## Contribuições
-
-Se você quiser contribuir para este projeto, fique à vontade para abrir uma "issue" ou fazer um "pull request".
-
 ---
 
 **Nota**: Este sistema é um exemplo simples e pode ser aprimorado com funcionalidades adicionais como validação de e-mail, criptografia de senha e melhorias de segurança.
